@@ -1,0 +1,24 @@
+{
+  "name": "hapi-server",
+  "version": "0.0.1",
+  "description": "hapi-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hapi"
+  ],
+  "author": "abarca.ruben73@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^8.6.1"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "private": true
+}
